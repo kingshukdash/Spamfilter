@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T15:34:40.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="89bj5WdR361sphBFWgu7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T15:37:14.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="zjaakPu7p5VQFntMzsrX" type="github" pages="2">
   <diagram id="deF0mYgHglB8HLEBIXQU" name="Page-1">
     <mxGraphModel dx="1564" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,6 +63,80 @@
         </mxCell>
         <mxCell id="NP_k7pCdvGU_es2CpQ9N-24" value="Ent Data Virtualization/Federation Layer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="300" width="380" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UHH-Ltyjlt3eAJqGhiUg" name="Page-2">
+    <mxGraphModel dx="782" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-1" value="Layered Architecture Clearly Delineates Information from Data to decouple tech investments from Access Layer. Data Collected from multiple SOR (System of Record) is converted to knowledge based information that can be consumed by end users in self service mode&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="70" width="650" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-2" value="Enterprise Data - Logical Arch view" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="20" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-3" value="Enterprise Data and Information" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="85" y="140" width="680" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-4" value="Network and Infrastructure" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="860" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-5" value="operational Source" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="100" y="810" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-6" value="3rd party" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="280" y="810" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-7" value="Other&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="470" y="810" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-8" value="Monitoring and Management" style="rounded=0;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;horizontal=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="10" y="140" width="50" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-9" value="Governance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="790" y="120" width="50" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-10" value="Information Integration" style="rounded=0;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;horizontal=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="50" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-11" value="Security and privacy" style="rounded=0;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;horizontal=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="700" y="160" width="50" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-12" value="&amp;nbsp;Information" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="510" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-13" value="Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="180" y="420" width="510" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-14" value="Data integration layer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="85" y="740" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-15" value="Analytical Data layer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="430" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-16" value="Integrated/Cross functional data layer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="500" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-17" value="Master and Reference data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="550" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-18" value="Subject Oriented/Raw Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="550" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-19" value="Ent Meta Data Layer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-20" value="Ent Data Virtualization/Federation Layer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="300" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-22" value="Google Cloud/On-premise" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b81Ut-Tsbp_QaZ1ztT3t-23" value="Azure cloud" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="580" y="230" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
