@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T15:14:24.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="cbo2L6YFdsaUfDmr6bzU" type="github"><diagram id="eHW6zge8U96K8k_FHBAD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-02T15:30:20.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="E9Un__3fLyGt433N4_Eg" type="github">
+  <diagram id="deF0mYgHglB8HLEBIXQU" name="Page-1">
+    <mxGraphModel dx="1564" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NP_k7pCdvGU_es2CpQ9N-1" value="Layered Architecture Clearly Delineates Information from Data to decouple tech investments from Access Layer. Data Collected from multiple SOR (System of Record) is converted to knowledge based information that can be consumed by end users in self service mode&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="70" width="650" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_k7pCdvGU_es2CpQ9N-2" value="Enterprise Data - Logical Arch view" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="20" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_k7pCdvGU_es2CpQ9N-3" value="Enterprise Data and Information" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="85" y="140" width="680" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_k7pCdvGU_es2CpQ9N-4" value="Network and Infrastructure" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="860" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_k7pCdvGU_es2CpQ9N-5" value="operational Source" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="100" y="810" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_k7pCdvGU_es2CpQ9N-6" value="3rd party" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="280" y="810" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_k7pCdvGU_es2CpQ9N-7" value="Other&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="470" y="810" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_k7pCdvGU_es2CpQ9N-11" value="Monitoring and Management" style="rounded=0;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;horizontal=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="10" y="140" width="50" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_k7pCdvGU_es2CpQ9N-12" value="Governance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="790" y="120" width="50" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_k7pCdvGU_es2CpQ9N-13" value="Information Integration" style="rounded=0;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;horizontal=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="50" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_k7pCdvGU_es2CpQ9N-14" value="Security and privacy" style="rounded=0;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;horizontal=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="700" y="160" width="50" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_k7pCdvGU_es2CpQ9N-15" value="&amp;nbsp;Information" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="380" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_k7pCdvGU_es2CpQ9N-16" value="Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="180" y="420" width="380" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_k7pCdvGU_es2CpQ9N-17" value="Data integration layer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="85" y="740" width="680" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
